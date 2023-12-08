@@ -7,23 +7,16 @@ Additionally, it incorporates separable convolutions
 and pooling layers, contributing to the creation of more streamlined and computationally efficient networks.
 
 ## Installation
-Using pip:
+To install both the package and dependencies needed to run the examples using `pip`, run:
 ```bash
 pip install deep-tcn
-```
-To install the dependencies for examples, run
-```bash
 pip install deep-tcn[examples]
 ```
-Alternatively, you can clone the repository and install the package using poetry:
+Alternatively, having first cloned the repository, you can do theh same using poetry:
 ```bash
 poetry install
-```
-This time, to install the dependencies needed to run the examples, run 
-```bash
 poetry install --all extras
 ```
-
 
 ## Features
 
