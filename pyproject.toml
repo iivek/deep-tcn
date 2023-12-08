@@ -2,7 +2,7 @@
 name = "deep-tcn"
 version = "0.1.0"
 description = ""
-authors = ["iivek <@iivek>"]
+authors = ["iivek <iivek@haraia.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
